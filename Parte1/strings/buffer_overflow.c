@@ -2,7 +2,6 @@
 #include<stdio.h>
 #include<string.h>
 
-
 void funcion_fantasma(){
     printf("has vulnerado el programa :D\n");
 }

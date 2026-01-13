@@ -1,0 +1,4 @@
+3
+gpt5-codex, 120, 3
+gemini3.5, 100, 113
+claude4.5-opus, 35, 103

@@ -4,9 +4,9 @@
 #include<sys/wait.h>
 
 
-int main(){
+int main(int argc, char** argv){
 
-    int n_hijos = 4;
+    int n_hijos = 10;
     pid_t padre = getpid();
     int i = 0;
 

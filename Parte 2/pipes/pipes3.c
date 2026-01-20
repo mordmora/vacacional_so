@@ -66,8 +66,5 @@ int main(){
         close(fd[i][0]);
         close(fd[i+1][1]);
     }
-
-
-
     return 0;
 }
